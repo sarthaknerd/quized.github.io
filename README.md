@@ -2,6 +2,9 @@
 # Quized
 
 ![Quized](https://github.com/sarthaknerd/quized.github.io/blob/main/QUIZED.png)
+
+
+
 A Beautifully Designed Website for Taking Quiz
 
 

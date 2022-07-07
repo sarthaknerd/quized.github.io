@@ -32,16 +32,6 @@ A Beautifully Designed Website for Taking Quiz
 - MCQ
 
 
-## Contributing
-
-Contributions are always welcome!
-
-To get an overview of the project, read the README. Here are some resources to help you get started with open source contributions:
-
-- Finding ways to contribute to this Project
-- Set up Git
-- GitHub flow
-- Collaborating with pull requests
 
 
 
@@ -57,6 +47,18 @@ To get an overview of the project, read the README. Here are some resources to h
 ## Support
 
 For support, email sarthakwithranjan@gmail.com
+
+## Contributing
+
+Contributions are always welcome!
+
+To get an overview of the project, read the README. Here are some resources to help you get started with open source contributions:
+
+- Finding ways to contribute to this Project
+- Set up Git
+- GitHub flow
+- Collaborating with pull requests
+
 
 
 ## License
